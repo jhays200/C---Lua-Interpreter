@@ -1,5 +1,5 @@
 #pragma once
-#include "LuaParser.tab.h"
+#include "LuaParser.hpp"
 #include <iostream>
 using std::cout;
 using std::endl;

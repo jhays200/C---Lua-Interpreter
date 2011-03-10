@@ -4,7 +4,7 @@
   {
 	int yylex(void);
   }
-#include "LuaParser.tab.h"
+#include "LuaParser.hpp"
 #include "LexFun.h"
 #include <stdio.h>
 %}
